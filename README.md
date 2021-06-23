@@ -1,4 +1,5 @@
 # Brickbreaker
+A simple brickbreaker game where everytime a brick is broken, speed increases 
 ![image](https://user-images.githubusercontent.com/85686740/123129651-66aaba80-d44c-11eb-8d83-408ccd7fbf59.png)
 # Losing lives
 When you lose lives in the game, message reappears
