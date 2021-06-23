@@ -1,11 +1,11 @@
 # Brickbreaker
-A simple brickbreaker game where everytime a brick is broken, speed increases 
+A simple brickbreaker game where everytime a brick is broken, speed increases <br><br>
 ![image](https://user-images.githubusercontent.com/85686740/123129651-66aaba80-d44c-11eb-8d83-408ccd7fbf59.png)
 # Losing lives
-When you lose lives in the game, message reappears
+When you lose lives in the game, message reappears<br><br>
 ![image](https://user-images.githubusercontent.com/85686740/123129816-85a94c80-d44c-11eb-8661-535df23d2f55.png)
 # Losing the game/Winning the game
-Game resets when player restarts, the same happens when a game is won
+Game resets when player restarts, the same happens when a game is won<br><br>
 ![image](https://user-images.githubusercontent.com/85686740/123130129-d0c35f80-d44c-11eb-88ce-e6b25b09433a.png)
 
 
